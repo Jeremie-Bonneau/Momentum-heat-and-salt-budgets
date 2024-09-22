@@ -1,6 +1,9 @@
 README for momentum, heat and salt budgets
+
 Author: Jérémie Bonneau, UBC, September 22 2024
+
 The files here are to reproduce the results by Bonneau et al. 2024. Journal of Physical Oceanography (submitted)
+
 For any questions, please email me at jbonneau@mail.ubc.ca
 
 What you need to do for the heat and salt budgets:
