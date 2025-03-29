@@ -1,8 +1,8 @@
 README for momentum, heat and salt budgets
 
-Author: Jérémie Bonneau, UBC, September 22 2024
+Author: Jérémie Bonneau, UBC, March 28 2025
 
-The files here are to reproduce the results by Bonneau et al. 2024. Journal of Physical Oceanography (submitted)
+The files here are to reproduce the results by Bonneau et al. 2025. Journal of Physical Oceanography
 
 For any questions, please email me at jbonneau@mail.ubc.ca
 
@@ -14,4 +14,4 @@ What you need to do for the heat and salt budgets:
 
 What you need to do for the momentum budget
 1. Change the directory where the ctd profiles are imported from (Milne2015Jul_ctdd.mat)
-2. Run channel_ctd_vel.m
+2. Run channel_ctd_vel_v2.m
